@@ -73,4 +73,6 @@ Loader messages appear in the inspector console prefixed with `[plugin-loader]`.
 
 ## License
 
-The built package contains [jellyfin-web](https://github.com/jellyfin/jellyfin-web) and [jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen), both GPL-2.0. See the `LICENSE` inside the package. `plugin-loader.js` and `build.ps1` are released under the same license.
+`plugin-loader.js` and `build.ps1` are released under the **Mozilla Public License 2.0** (see `LICENSE`), the same license as [jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen).
+
+The built package also contains [jellyfin-web](https://github.com/jellyfin/jellyfin-web), which is **GPL-2.0**. Its source is available from that project.
